@@ -1,0 +1,6 @@
+{
+    "start": "Assalomu aleykum {name}!\n\n Xush kelibsiz.\nKerakli tilni tanlang.",
+    "choose": "Bo'limni tanlang",
+    "bosh_savat": "Savatingiz bo'sh",
+    "card": "Savatingiz:\n{products}\n\nJami: {total}UZS"
+}
